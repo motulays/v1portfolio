@@ -1,0 +1,8 @@
+  9/5/2021 5:29:03 PM: Starting composition “tempConverterComp”.
+
+  Output To: C:\Users\MoTuLayS\AppData\Local\Temp\Bodymovin\mn6olwl2oa\raw\images\img_1.png    9/5/2021 5:29:03 PM: Finished composition “tempConverterComp”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 9/5/2021 at 5:29:03 PM
+
